@@ -1,0 +1,8 @@
+{
+  "name": "AA TRADING GROUP MMC",
+  "description": "AA TRADING GROUP MMC rəsmi vebsayt - beynəlxalq ticarət, sənaye avadanlıqlarının təchizatı və DELABIE rəsmi nümayəndəliyi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
